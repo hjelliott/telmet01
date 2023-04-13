@@ -1,0 +1,13 @@
+body, div, p, blockquote, ol, ul, dl, li, dt, dd, td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: 400; color: #999999} 
+b, strong { font-weight: 700}
+
+.body { font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #666666}
+.body a:active { color: #666633; text-decoration: underline; font-weight: bold}
+.body a:link {  color: #8E9865; text-decoration: underline; font-weight: bold}
+.body a:visited { color: #8E9865; text-decoration: underline; font-weight: bold}
+.body a:hover {  color: #666633; text-decoration: underline; font-weight: bold}
+
+
+.header { font-family: "arial black", "arial bold", helvetica, sans-serif; font-size: x-large; color: #DDE0D1}
+
+
